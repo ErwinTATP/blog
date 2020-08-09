@@ -8,7 +8,7 @@ paginate = 5
   themeColor = "blue"
   showMenuItems = 2
   fullWidthTheme = false
-  centerTheme = false
+  centerTheme = true
 
 [languages]
   [languages.en]
@@ -19,6 +19,8 @@ paginate = 5
     menuMore = "Show more"
     readMore = "Read more"
     readOtherPosts = "Read other posts"
+    missingContentMessage = "Page not found..."
+    missingBackButtonLabel = "Back to home page"
 
     [languages.en.params.logo]
       logoText = "Erwin+TATP"
