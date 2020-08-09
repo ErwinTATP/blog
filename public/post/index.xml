@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Erwin&#43;TATP</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Erwin&#43;TATP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 09 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Why did I start this blog</title>
+      <link>/post/why-did-i-start-this-blog/</link>
+      <pubDate>Sun, 09 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/why-did-i-start-this-blog/</guid>
+      <description>It all started with OriginLab. Or rather, the hatred towards it.
+As a chemistry graduate student with limited programming experience, I had to plot and summarize huge amount of data coming from various scanners - IR, UV-Vis, Current-Voltage, NMR, you name it. And, as a chemistry graduate student trained in China, I picked up pirated versions of OriginLab as my primary tool.
+Because &amp;ldquo;everyone else had been using it&amp;rdquo;, they said.</description>
+    </item>
+    
+  </channel>
+</rss>
