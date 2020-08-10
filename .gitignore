@@ -2,3 +2,5 @@
 .Rhistory
 .RData
 .Ruserdata
+thumbs.db
+.Rproj.user/**
