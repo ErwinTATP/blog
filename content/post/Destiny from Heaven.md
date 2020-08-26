@@ -16,11 +16,11 @@ It didn't work as I intended.
 
 # Lightnening strikes, America fails
 
-I searched "lightening strike thrice" in Chinese.[^1] All results are just different versions of two copypastas, first is about a man being struck thrice…over 10 years. 
+I searched "lightning strike thrice" in Chinese.[^1] All results are just different versions of two copypastas, first is about a man being struck thrice…over 10 years. 
 
 The other one is way more interesting.
 
-The [largest free-flying American national flag was torn in half](https://www.businessinsider.com/largest-american-flag-ripped-in-half-after-storm-2020-6) in a severe storm in June. Considering all the turbulence in 2020, it is natural that people saw it as a sympol of the current rift in America society. Interestingly, many Chinese media somehow added to the news that "the Washington monument was struck by lightening 3 times in a week" and "two *White House guards \[sic\]* also struck by lightening".
+The [largest free-flying American national flag was torn in half](https://www.businessinsider.com/largest-american-flag-ripped-in-half-after-storm-2020-6) in a severe storm in June. Considering all the turbulence in 2020, it is natural that people saw it as a sympol of the current rift in America society. Interestingly, many Chinese media somehow added to the news that "the Washington monument was struck by lightning 3 times in a week" and "two *White House guards \[sic\]* also struck by lightening".
 
 I immediately wanted to slam "citation needed" templates to these articles.
 
