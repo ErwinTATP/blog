@@ -23,10 +23,10 @@ I have take chemistry as my major since 2011 and is still studying in this area.
 
 However, for most of the time my devotion to this subject is half-hearted. Despite my degrees in organic chemistry, I haven't done any synthesis aside from the mandatory courses in undergraduate studies. 
 
-I spent several years on how to grow organic single crystals alone, then started research on organic field effect transistors. These subjects requires sufficient knowledges on semiconductor physics and physical chemsitry, which, judging by my horrible undergraduate transcript, is clearly lacking from me.
+I spent several years on how to grow organic single crystals alone, then started research on organic field effect transistors. These subjects requires sufficient knowledge on semiconductor physics and physical chemistry, which, judging by my horrible undergraduate transcript, is clearly lacking from me.
 
 ## Astronomy society
-For undergraduate study I somehow became a member of the astronomy society in my university, successfully observed several meteor showers and [a total lunar eclipse](https://en.wikipedia.org/wiki/December_2011_lunar_eclipse). Perhaps the highest achivement of my life currently is seeing transit of Venus twice, the first time in 2004 and the second time [in 2012](https://en.wikipedia.org/wiki/2012_transit_of_Venus).  I am not sure if I can see a third time when it happen again in 2117. 
+For undergraduate study I somehow became a member of the astronomy society in my university, successfully observed several meteor showers and [a total lunar eclipse](https://en.wikipedia.org/wiki/December_2011_lunar_eclipse). Perhaps the highest achievement of my life currently is seeing transit of Venus twice, the first time [in 2004](https://en.wikipedia.org/wiki/2004_transit_of_Venus) and the second time [in 2012](https://en.wikipedia.org/wiki/2012_transit_of_Venus).  I am not sure if I can see a third time when it happen again in 2117. 
 
 ## Wikipedia
 Back in undergraduate years I tried to improve my English by translating Wikipedia articles, yet after translating an lengthy article I thought "I'd better took a rest" and went into a 3-year hiatus. Since 2018 I've restarted translation project, mainly focus on Holocaust in Poland , and the Apollo Project. 
@@ -36,7 +36,7 @@ Translations reached "good article" or above:
 2. [Pete Conrad](https://zh.wikipedia.org/wiki/%E7%9A%AE%E7%89%B9%C2%B7%E5%BA%B7%E6%8B%89%E5%BE%B7)
 
 ## Tifosi
-My wikipedia account actually started in order to complete Enzo Ferrari article on Chinese wikipedia. 12 years later, the article is still unfinished, and the pathetic state of Scuderia Ferrari has quenched my mood on finishing that.
+My Wikipedia account actually started in order to complete Enzo Ferrari article on Chinese Wikipedia. 12 years later, the article is still unfinished, and the pathetic state of Scuderia Ferrari has quenched my mood on finishing that.
 
 Schumi didn't wake up for this.
 

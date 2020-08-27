@@ -28,7 +28,7 @@ All the fact checks aside, I'm quite surprised if a thunderstorm happened and th
 
 On the other hand, lets not forget that the Canton Tower [keeps being attacked by multible thunderbolts almost every year](https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/483141/%E7%B6%B2%E6%B0%91%E6%8B%8D%E5%88%B0%E5%BB%A3%E5%B7%9E%E5%A1%94-%E8%A2%AB%E9%9B%B7%E5%8A%88-%E5%85%A8%E9%81%8E%E7%A8%8B-%E5%AE%98%E6%96%B9%E6%BE%84%E6%B8%85-%E6%98%AF%E4%B8%BB%E5%8B%95-%E6%8E%A5%E9%96%83-%E9%81%BF%E9%9B%B7). If the same editors had been asked to apply the same logic on that event, the implications would be embarrassing to say the least. More embarassingly, if God is warning America with a common thunderstorm near the capital, what is He trying to say to China if He flooded 27 out of 34 provinces?
 
-{{< figure src="/post/Destiny from Heaven_files/maxresdefault.png" alt="Canton Tower and Ligntning" position="center" style="border-radius: 4px;" caption="A clear heavenly sign that happens every year" captionPosition="center" captionStyle="color: blue;" >}}
+{{< figure src="https://i.ytimg.com/vi/2XIFnCaDoRs/maxresdefault.jpg" alt="Canton Tower and Ligntning" position="center" style="border-radius: 4px;" caption="A clear heavenly sign that happens every year" captionPosition="center" captionStyle="color: blue;" >}}
 
 But no. They say that Canton Tower is not struck by lightning; it's designed to *catch* the arcs deliberately, thus another marvel of modern Chinese constructions. As for the flood, look at how well the Party and armed forces handled it! That again, is a definitive proof that the might of the leaders knows no bonds.
 
@@ -39,7 +39,7 @@ Using nonsense as weapon against others will only result in backfires. On the on
 
 The bolts of nonsense reminded me of [a "natural marvel" in Guizhou province](t.ly/wUFO) I heard back in middle school years. Years of erosion and sedimentation has formed several character-resembling patterns on a rock; however, the Party and their opposition seems have difficulties on counting these formations.
 
-{{< figure src="/post/Destiny from Heaven_files/129440c9ddfg214.jpg" alt="The 'savior rock' as dubbed by the locals" position="center" style="border-radius: 4px;" caption="How many characters are there on this rock?" captionPosition="center" captionStyle="color: blue;" >}}
+{{< figure src="http://1831.img.pp.sohu.com.cn/images/blog/2010/5/13/17/13/129440c9ddfg214.jpg" alt="The 'savior rock' as dubbed by the locals" position="center" style="border-radius: 4px;" caption="How many characters are there on this rock?" captionPosition="center" captionStyle="color: blue;" >}}
 
 According to the Party-owned media, the rock clearly carries 5 characters 中國共產黨 (Chinese Communist Party), which was "formed without any artificial interventions" according to the invited "experts". They even made documentaries on how the patterns formed "completely by natural forces", with the chance "1 in 1 trillion but still possible". 
 
