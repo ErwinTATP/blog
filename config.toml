@@ -16,7 +16,7 @@ googleAnalytics = "UA-177297032-1"
 [languages]
   [languages.en]
     title = "Erwin+TATP"
-    subtitle = "Waiting for a trigger"
+    subtitle = "There must be some kind of way out of here"
     keywords = ""
     copyright = ""
     menuMore = "Show more"
