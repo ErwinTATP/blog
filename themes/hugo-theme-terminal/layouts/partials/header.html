@@ -7,6 +7,9 @@
     <div class="menu-trigger">menu</div>
   </div>
   <link rel="me" href="https://github.com/erwintatp" />
+  <link rel="micropub" href="https://immense-waters-26235.herokuapp.com/micropub">
+  <link rel="authorization_endpoint" href="https://indieauth.com/auth">
+  <link rel="token_endpoint" href="https://tokens.indieauth.com/token">
   {{ if len $.Site.Menus }}
     {{ partial "menu.html" . }}
   {{ end }}
