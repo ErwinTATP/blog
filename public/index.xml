@@ -5,10 +5,28 @@
     <link>/</link>
     <description>Recent content on Erwin&#43;TATP</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 26 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2020 12:33:39 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>/notes/8nlea/</link>
+      <pubDate>Fri, 11 Sep 2020 12:33:39 +0000</pubDate>
+      
+      <guid>/notes/8nlea/</guid>
+      <description>Test of querying the endpoint for the source content</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/notes/yla9n/</link>
+      <pubDate>Fri, 11 Sep 2020 12:26:01 +0000</pubDate>
+      
+      <guid>/notes/yla9n/</guid>
+      <description>This post will be deleted when the test succeeds.</description>
+    </item>
     
     <item>
       <title>Mandate of heaven in modern days</title>
