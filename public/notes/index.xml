@@ -5,10 +5,19 @@
     <link>/notes/</link>
     <description>Recent content in Notes on Erwin&#43;TATP</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 11 Sep 2020 20:46:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2020 20:56:06 +0000</lastBuildDate>
     
 	<atom:link href="/notes/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>/notes/vzkwb/</link>
+      <pubDate>Fri, 11 Sep 2020 20:56:06 +0000</pubDate>
+      
+      <guid>/notes/vzkwb/</guid>
+      <description>Micropub update test. This text should be replaced if the test succeeds.</description>
+    </item>
     
     <item>
       <title></title>
